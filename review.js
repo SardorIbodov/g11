@@ -20,5 +20,3 @@
 // git branch branchName
 // git checkout branchName
 // git branch -m branchName
-
-// wba_students
